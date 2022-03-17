@@ -34,3 +34,6 @@
 [submodule "code-practice-tests-actual"]
 	path = code-practice-tests-actual
 	url = git@github.com:everestsh/code-practice-tests-actual.git
+[submodule "code-practice-arcade-python"]
+	path = code-practice-arcade-python
+	url = git@github.com:everestsh/code-practice-arcade-python.git
