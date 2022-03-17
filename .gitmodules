@@ -1,0 +1,36 @@
+[submodule "code-practice-arcade-intro"]
+	path = code-practice-arcade-intro
+	url = git@github.com:everestsh/code-practice-arcade-intro.git
+[submodule "code-practice-arcade-databases"]
+	path = code-practice-arcade-databases
+	url = git@github.com:everestsh/code-practice-arcade-databases.git
+[submodule "code-practice-arcade-thecore"]
+	path = code-practice-arcade-thecore
+	url = git@github.com:everestsh/code-practice-arcade-thecore.git
+[submodule "code-practice-arcade-git"]
+	path = code-practice-arcade-git
+	url = git@github.com:everestsh/code-practice-arcade-git.git
+[submodule "code-practice-arcade-graphs"]
+	path = code-practice-arcade-graphs
+	url = git@github.com:everestsh/code-practice-arcade-graphs.git
+[submodule "code-practice-arcade-docker"]
+	path = code-practice-arcade-docker
+	url = git@github.com:everestsh/code-practice-arcade-docker.git
+[submodule "code-practice-arcade-javascript"]
+	path = code-practice-arcade-javascript
+	url = git@github.com:everestsh/code-practice-arcade-javascript.git
+[submodule "code-practice-arcade-golang"]
+	path = code-practice-arcade-golang
+	url = git@github.com:everestsh/code-practice-arcade-golang.git
+[submodule "code-practice-arcade-c"]
+	path = code-practice-arcade-c
+	url = git@github.com:everestsh/code-practice-arcade-c.git
+[submodule "code-practice-arcade-rust"]
+	path = code-practice-arcade-rust
+	url = git@github.com:everestsh/code-practice-arcade-rust.git
+[submodule "code-practice-tests-practice"]
+	path = code-practice-tests-practice
+	url = git@github.com:everestsh/code-practice-tests-practice.git
+[submodule "code-practice-tests-actual"]
+	path = code-practice-tests-actual
+	url = git@github.com:everestsh/code-practice-tests-actual.git
