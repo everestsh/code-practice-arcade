@@ -16,9 +16,6 @@
 [submodule "code-practice-arcade-docker"]
 	path = code-practice-arcade-docker
 	url = git@github.com:everestsh/code-practice-arcade-docker.git
-[submodule "code-practice-arcade-javascript"]
-	path = code-practice-arcade-javascript
-	url = git@github.com:everestsh/code-practice-arcade-javascript.git
 [submodule "code-practice-arcade-golang"]
 	path = code-practice-arcade-golang
 	url = git@github.com:everestsh/code-practice-arcade-golang.git
@@ -37,3 +34,6 @@
 [submodule "code-practice-arcade-python"]
 	path = code-practice-arcade-python
 	url = git@github.com:everestsh/code-practice-arcade-python.git
+[submodule "code-practice-arcade-javascript"]
+	path = code-practice-arcade-javascript
+	url = git@github.com:everestsh/code-practice-arcade-javascript.git
